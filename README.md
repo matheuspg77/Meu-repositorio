@@ -36,12 +36,6 @@ portfolio/
 
 **Visite meu portfólio**: [Acesse aqui](https://matheuspg77.github.io/Meu-repositorio/)
 
-*Para ativar o GitHub Pages:*
-1. Vá em Settings > Pages
-2. Selecione "Deploy from a branch"
-3. Escolha a branch main
-4. Clique em Save
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.
