@@ -32,6 +32,10 @@ portfolio/
 - **Instagram**: [@otheus063](https://www.instagram.com/otheus063/)
 - **Email**: matheusqls150@gmail.com
 
+## 🌐 Acesse o Site
+
+**Visite meu portfólio**: [index.html](index.html)
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.
