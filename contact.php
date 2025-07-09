@@ -5,8 +5,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $email = htmlspecialchars($_POST['email'] ?? '');
     $msg = htmlspecialchars($_POST['mensagem'] ?? '');
     
-    // Configurações do e-mail
-    $to = 'matheusqls150@gmail.com'; // E-mail para receber as mensagens do formulário
+   
+    $to = 'matheusqls150@gmail.com'; 
     $subject = 'Novo contato do portfólio';
     $body = "Nome: $nome\nE-mail: $email\nMensagem: $msg";
     $headers = "From: $email\r\nReply-To: $email\r\n";
@@ -86,7 +86,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <a class="card-link" href="https://github.com/matheuspg77/projeto2" target="_blank">Ver no GitHub</a>
                 </div>
             </div>
-            <!-- Adicione mais projetos conforme necessário -->
+            
         </div>
     </section>
 
@@ -108,7 +108,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </section>
 
     <script>
-        // Animação de texto digitando
+       
         const texts = ["PHP", "Laravel", "Front-end", "Back-end"];
         let count = 0, index = 0, currentText = '', letter = '';
         (function type(){

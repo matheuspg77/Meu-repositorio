@@ -1,16 +1,8 @@
-# 🚀 Portfólio - Matheus Santos
+Portfólio - Matheus Santos
 
 Portfólio pessoal desenvolvido com HTML, CSS e PHP, apresentando minhas habilidades e projetos como Desenvolvedor Back-end.
 
-## ✨ Características
-
-- **Design Moderno**: Interface limpa e responsiva
-- **Animações Suaves**: Efeitos visuais dinâmicos
-- **Fundo Interativo**: Imagens de fundo com overlays animados
-- **Formulário de Contato**: Sistema PHP para envio de mensagens
-- **Totalmente Responsivo**: Adaptável a todos os dispositivos
-
-## 🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 - **HTML5**: Estrutura semântica
 - **CSS3**: Estilização avançada com animações
@@ -20,7 +12,6 @@ Portfólio pessoal desenvolvido com HTML, CSS e PHP, apresentando minhas habilid
 - **Google Fonts**: Tipografia Inter
 
 ## 📁 Estrutura do Projeto
-
 ```
 portfolio/
 ├── index.html          # Página principal
@@ -33,26 +24,6 @@ portfolio/
 │   └── js/           # Scripts JavaScript
 ```
 
-## 🎨 Funcionalidades
-
-### Seções Principais
-- **Header**: Apresentação com avatar e informações pessoais
-- **Sobre Mim**: Descrição profissional
-- **Skills**: Tecnologias e ferramentas
-- **Projetos**: Portfolio de trabalhos
-- **Contato**: Links sociais e formulário
-
-### Animações
-- Partículas flutuantes no fundo
-- Efeitos de hover nos elementos
-- Transições suaves
-- Animações de entrada das seções
-
-## 🚀 Como Usar
-
-1. Clone o repositório
-2. Abra `index.html` no navegador
-3. Para o formulário funcionar, configure um servidor PHP
 
 ## 📧 Contato
 
